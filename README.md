@@ -1,4 +1,4 @@
-smallpt-vs2012
+smallpt-cplusplus
 ==============
 
 smallpt: Global Illumination in 99 lines of C++ 
